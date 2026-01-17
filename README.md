@@ -5,6 +5,8 @@ files used by [Phase Plant](https://kilohearts.com/products/phase_plant)
 
 This application is a python translation of [kibank](https://github.com/softdevca/kibank) which was developed independently by Sheldon Young.
 
+### All translation was done by AI
+
 Kibank-python is *not* Kilohearts product, please do not contact them for support.
 
 ## Usage
