@@ -22,14 +22,16 @@ $ python kibank_extract.py Some.bank -o extracted
 ### Creating a new bank
 
 To create a new bank make a folder next to the script like:
+```text
 bankfolder/
---index.json
---background.png
---phaseplant/
-----/Bass/
-------ArpBass1.phaseplant
-----/Leads/
-------Leads1.phaseplant
+├── index.json
+├── background.png
+└── phaseplant/
+    ├── Bass/
+    │   └── ArpBass1.phaseplant
+    └── Leads/
+        └── Leads1.phaseplant
+```
 
 index.json eg.
 ```json
